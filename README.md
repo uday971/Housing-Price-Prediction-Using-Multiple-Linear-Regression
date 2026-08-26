@@ -16,3 +16,5 @@ Key findings
 * Area and bathrooms dominate the price influence, followed by the number of stories and amenity flags, such as basement and air conditioning.
 * Upgrades pay off differently: indoor comforts (A/C, hot-water heating) and extra parking slots yield stronger premiums than cosmetic furnishing status.
 * Model explainability first: by taming multicollinearity and keeping the feature set lean, each coefficient reads as a straightforward cash increment—perfect for broker negotiations.
+
+Thank You
