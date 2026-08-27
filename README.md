@@ -1,7 +1,7 @@
 # Housing-Price-Prediction-Using-Multiple-Linear-Regression
 A complete, end-to-end multiple-linear-regression (MLR) workflow that turns raw housing listings into an explainable pricing engine. Starting with a 13-column CSV (area, bedrooms, bathrooms, amenities, etc.), the pipeline:
 
-1. Loads & inspects data with pandas, revealing numeric vs. categorical attributes and basic summary stats.
+1. Loads & inspects data with pandas, revealing numeric vs. categorical attributes and basic summary statistics
 
 2. Visual-explores relationships (scatter, box-plots, correlation heat-map) to spot the strongest price drivers and potential outliers.
 
